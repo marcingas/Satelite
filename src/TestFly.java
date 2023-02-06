@@ -3,7 +3,7 @@ public class TestFly {
         inFlight(new Jet());
        orbit(new Satellite());
        orbit(new Satellite());
-       inFlight(new Jet);
+       inFlight(new Jet());
 
     }
 

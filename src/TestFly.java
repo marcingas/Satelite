@@ -2,6 +2,8 @@ public class TestFly {
     public static void main(String[] args) {
         inFlight(new Jet());
        orbit(new Satellite());
+       orbit(new Satellite());
+       inFlight(new Jet);
 
     }
 
